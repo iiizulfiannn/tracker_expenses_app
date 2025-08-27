@@ -1,4 +1,4 @@
-package com.luckyfriday.treackerexpensesapp
+package com.luckyfriday.treackerexpensesapp.local.data.datastore
 
 import android.content.Context
 import androidx.datastore.preferences.core.edit
